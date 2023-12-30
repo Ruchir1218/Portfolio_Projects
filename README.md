@@ -4,6 +4,8 @@ Portfolio_Projects
 1. Machine Learning Project - Price Prediction with CNN-BiLSTM-AM | Python, Keras
 ---------------------------------------------------------------------------------
 [link to github copy of jupyter notebook][1]
+
+
 In this project, I leveraged cutting-edge technologies like CNN-BiLSTM-AM to create highly accurate short-term stock price predictions. By implementing LSTM models and predictive modeling techniques, I achieved precise forecasting, contributing to informed decision-making in financial markets. Additionally, I utilized seaborn for visually representing intricate stock price data, enhancing the interpretability of the predictions.
 
 Key Highlights:
@@ -15,6 +17,8 @@ Key Highlights:
 2. SQL Data Exploration Project - Covid Data Analysis | SQL
 -----------------------------------------------------------
 [link to github repo with queries][2]
+
+
 Through this project, I delved into COVID data, extracting invaluable insights to understand patterns related to fatalities across different countries. By applying SQL data analysis techniques, I identified crucial trends and factors contributing to the severity of the pandemic in various regions. This exploration led to the identification of the most significantly affected countries, offering valuable insights into the global impact of the pandemic.
 
 Key Highlights:
@@ -25,6 +29,8 @@ Key Highlights:
 3. Tableau Dashboard Project - Amazon Prime Video Streaming Dashboard | Tableau 
 -------------------------------------------------------------------------------
 [link to dashboard][3]
+
+
 In this project, I designed an interactive Tableau dashboard aimed at comprehensively analyzing the distribution of Amazon Prime Video content across the globe. This dashboard provided a user-friendly interface for exploring and extracting information on the geographical distribution of content, enhancing understanding of the platform's global reach and content availability.
 
 Key Highlights:
