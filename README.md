@@ -1,12 +1,12 @@
 Portfolio_Projects
 ==================
 
-1. Machine Learning Project - Price Prediction with CNN-BiLSTM-AM | Python, Keras
+1. Machine Learning Project - Price Prediction with LSTM | Python, Keras
 ---------------------------------------------------------------------------------
 [jupyter notebook][1]
 
 
-In this project, I leveraged cutting-edge technologies like CNN-BiLSTM-AM to create highly accurate short-term stock price predictions. By implementing LSTM models and predictive modeling techniques, I achieved precise forecasting, contributing to informed decision-making in financial markets. Additionally, I utilized seaborn for visually representing intricate stock price data, enhancing the interpretability of the predictions.
+In this project, I leveraged cutting-edge technologies like LSTM to create highly accurate short-term stock price predictions. By implementing LSTM models and predictive modeling techniques, I achieved precise forecasting, contributing to informed decision-making in financial markets. Additionally, I utilized seaborn for visually representing intricate stock price data, enhancing the interpretability of the predictions.
 
 Key Highlights:
 
