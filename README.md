@@ -13,7 +13,7 @@ Key Highlights:
 ..*Implementation of LSTM models for precise short-term stock price forecasts.
 ..*Utilization of predictive modeling techniques to enhance accuracy.
 ..*Visualization of stock price data using seaborn for clear insights.
-
+----------------------------------------------------------------------------------
 2. SQL Data Exploration Project - Covid Data Analysis | SQL
 -----------------------------------------------------------
 [queries][2]
@@ -25,7 +25,7 @@ Key Highlights:
 
 ..*In-depth analysis of COVID data to uncover patterns in mortality rates.
 ..*Identification of the most severely affected countries based on data analysis.
-
+-------------------------------------------------------------------------------------
 3. Tableau Dashboard Project - Amazon Prime Video Streaming Dashboard | Tableau 
 -------------------------------------------------------------------------------
 [dashboard][3]
