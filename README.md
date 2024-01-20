@@ -9,9 +9,9 @@ In this project, I leveraged cutting-edge technologies like LSTM to create highl
 
 Key Highlights:
 
-..*Implementation of LSTM models for precise short-term stock price forecasts.
-..*Utilization of predictive modeling techniques to enhance accuracy.
-..*Visualization of stock price data using seaborn for clear insights.
+- Implementation of LSTM models for precise short-term stock price forecasts.
+- Utilization of predictive modeling techniques to enhance accuracy.
+- Visualization of stock price data using seaborn for clear insights.
 
 ----------------------------------------------------------------------------------
 
@@ -23,8 +23,8 @@ Through this project, I delved into COVID data, extracting invaluable insights t
 
 Key Highlights:
 
-..*In-depth analysis of COVID data to uncover patterns in mortality rates.
-..*Identification of the most severely affected countries based on data analysis.
+- In-depth analysis of COVID data to uncover patterns in mortality rates.
+- Identification of the most severely affected countries based on data analysis.
 
 -------------------------------------------------------------------------------------
 
@@ -36,8 +36,8 @@ In this project, I designed an interactive Tableau dashboard aimed at comprehens
 
 Key Highlights:
 
-..*Creation of an interactive dashboard for comprehensive analysis of Amazon Prime Video content distribution worldwide.
-..*User-friendly interface allowing for easy extraction of diverse data insights.
+- Creation of an interactive dashboard for comprehensive analysis of Amazon Prime Video content distribution worldwide.
+- User-friendly interface allowing for easy extraction of diverse data insights.
 
 [2]: https://github.com/Ruchir1218/Portfolio_Projects/blob/main/Covid_analysis.ipynb
 [1]: https://github.com/Ruchir1218/Portfolio_Projects/blob/main/Stock_Price_prediction_using_LSTM.ipynb
